@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MADlab5-MedCare-TimenDate-switch-toggle</string>
+    <string name="medcare">MedCare</string>
+    <string name="at_store">At store</string>
+    <string name="delivery">Delivery</string>
+    <string name="enable_notifications">Enable notifications</string>
+    <string name="subscribe_1_month">Subscribe (1 month)</string>
+    <string name="enter_the_medicine_code">Enter the Medicine Code</string>
+    <string name="reminders_on">Reminders ON</string>
+    <string name="reminders_off">Reminders OFF</string>
+    <string name="auto_refill_off">Auto-refill OFF</string>
+    <string name="auto_refill_on">Auto-refill ON</string>
+    <string name="submit">Set reminder</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="error_code_required">Enter the medicine code</string>
+    <string name="error_past_time">Choose a date and time in the future</string>
+    <string name="summary_store">Medicine %1$s · pick up at store\nReminders: %2$s · Auto-refill: %3$s</string>
+    <string name="summary_delivery">Medicine %1$s · delivery on %2$s at %3$s\nReminders: %4$s · Auto-refill: %5$s</string>
+</resources>
