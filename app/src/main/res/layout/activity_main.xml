@@ -12,7 +12,7 @@
         android:id="@+id/background"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:alpha="0.2"
+        android:alpha="0.7"
         android:contentDescription="@null"
         android:importantForAccessibility="no"
         android:scaleType="centerCrop"
@@ -48,7 +48,8 @@
                 android:gravity="center"
                 android:padding="10dp"
                 android:text="@string/medcare"
-                android:textSize="30sp"
+                android:textSize="40sp"
+                android:textColor="#3E096D"
                 android:textStyle="bold" />
 
             <com.google.android.material.card.MaterialCardView
